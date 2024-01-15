@@ -1,5 +1,9 @@
 # React Three Fiber airplane simulator :airplane:
 
+## Deployed version :joystick:
+
+Visit: [szarbartosz.github.io/airplane-simulator](https://szarbartosz.github.io/airplane-simulator/)
+
 ## Quickstart :rocket:
 
 Clone the project and run the following in its root:
