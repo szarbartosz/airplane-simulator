@@ -7,8 +7,11 @@ Visit: [szarbartosz.github.io/airplane-simulator](https://szarbartosz.github.io/
 ## Controls :joystick:
 
 <kbd>w</kbd> and <kbd>s</kbd> for pitch control
+<br/>
 <kbd>a</kbd> and <kbd>d</kbd> for roll control
+<br/>
 <kbd>q</kbd> and <kbd>e</kbd> for yaw control
+<br/>
 <kbd>Shift</kbd> for turbo speed
 
 ## Dev quickstart :rocket:
