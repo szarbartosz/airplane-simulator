@@ -2,7 +2,7 @@ import { useState, useMemo } from "react";
 import { Quaternion, TorusGeometry, Vector3 } from "three";
 import { mergeBufferGeometries } from "three-stdlib";
 import { useFrame } from "@react-three/fiber";
-import { planePosition } from "./Airplane";
+import { planePosition } from "./Aerobatic";
 
 function randomPoint(scale) {
   return new Vector3(
@@ -72,7 +72,7 @@ export function Targets() {
 
   return (
     <mesh geometry={geometry}>
-      <meshStandardMaterial roughness={0.5} metalness={0.5} />
+      <meshStandardMaterial roughness={0.2} metalness={0.8} />
     </mesh>
   );
 }
