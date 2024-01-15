@@ -9,6 +9,10 @@ yarn
 yarn dev
 ```
 
+## Game screenshot :high_brightness:
+
+![Game screenshot](public/assets/images/game_showcase.png)
+
 ## Project structure :deciduous_tree:
 
 ```bash
