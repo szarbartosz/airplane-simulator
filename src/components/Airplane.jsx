@@ -81,7 +81,7 @@ export function Airplane(props) {
 
   return (
     <group ref={groupRef}>
-      <group {...props} dispose={null}>
+      <group {...props} dispose={null} scale={0.01} rotation-y={Math.PI}>
         <mesh
           geometry={nodes.supports.geometry}
           material={materials["Material.004"]}
