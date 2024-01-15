@@ -73,13 +73,6 @@ export function Landscape(props) {
         receiveShadow
       />
       <mesh
-        geometry={nodes.walls.geometry}
-        material={nodes.walls.material}
-        position={[0, 3, -5.109]}
-        rotation={[Math.PI / 2, 0, 0]}
-        scale={[5, 1, 3]}
-      />
-      <mesh
         position={[-2.536, 1.272, 0.79]}
         rotation={[-Math.PI * 0.5, 0, 0]}
         scale={[1.285, 1.285, 1]}
