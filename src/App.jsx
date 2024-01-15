@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <SphereEnv />
-      <Environment background={false} files={"assets/textures/envmap.hdr"} />
+      <Environment background={false} files={"assets/textures/sky.hdr"} />
 
       <PerspectiveCamera makeDefault position={[0, 10, 10]} />
 

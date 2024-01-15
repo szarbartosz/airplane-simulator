@@ -96,11 +96,11 @@ export function Landscape(props) {
         <planeGeometry args={[1, 1]} />
         {waterMaterial}
       </mesh>
-      <mesh
+      {/* <mesh
         geometry={nodes.lights.geometry}
         material={lightsMaterial}
         castShadow
-      />
+      /> */}
     </group>
   );
 }
