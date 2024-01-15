@@ -5,6 +5,7 @@ import { SphereEnv } from "./components/SphereEnv";
 import { Airplane } from "./components/Airplane";
 import { MotionBlur } from "./effects/MotionBlur";
 import { BlendFunction } from "postprocessing";
+import { Targets } from "./components/Targets";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
 
       <Landscape />
       <Airplane />
+      <Targets />
 
       <directionalLight
         castShadow
