@@ -1,8 +1,15 @@
 # React Three Fiber airplane simulator :airplane:
 
-## Deployed version :joystick:
+## Deployed version :video_game:
 
 Visit: [szarbartosz.github.io/airplane-simulator](https://szarbartosz.github.io/airplane-simulator/)
+
+## Controls :joystick:
+
+<kbd>w</kbd> and <kbd>s</kbd> for pitch control
+<kbd>a</kbd> and <kbd>d</kbd> for roll control
+<kbd>q</kbd> and <kbd>e</kbd> for yaw control
+<kbd>Shift</kbd> for turbo speed
 
 ## Dev quickstart :rocket:
 
