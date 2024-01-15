@@ -22,10 +22,23 @@ yarn dev
 │       ├── icons
 │       │   └── balloon.png
 │       ├── models
+│       │   ├── aerobatic_airplane.glb
+│       │   ├── airplane.glb
+│       │   └── scene.glb
 │       └── textures
+│           ├── envmap.hdr
+│           └── envmap.jpg
 ├── src
 │   ├── App.jsx
 │   ├── components
+│   │   ├── Aerobatic.jsx
+│   │   ├── Airplane.jsx
+│   │   ├── Landscape.jsx
+│   │   ├── SphereEnv.jsx
+│   │   └── Targets.jsx
+│   ├── controls.js
+│   ├── effects
+│   │   └── MotionBlur.jsx
 │   ├── index.css
 │   ├── main.jsx
 │   └── styles
