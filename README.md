@@ -1,4 +1,13 @@
-# React Three Fiber airplane simulator :balloon:
+# React Three Fiber airplane simulator :airplane:
+
+## Quickstart :rocket:
+
+Clone the project and run the following in its root:
+
+```bash
+yarn
+yarn dev
+```
 
 ## Project structure :deciduous_tree:
 
