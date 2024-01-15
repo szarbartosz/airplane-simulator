@@ -4,7 +4,7 @@
 
 Visit: [szarbartosz.github.io/airplane-simulator](https://szarbartosz.github.io/airplane-simulator/)
 
-## Quickstart :rocket:
+## Dev quickstart :rocket:
 
 Clone the project and run the following in its root:
 
