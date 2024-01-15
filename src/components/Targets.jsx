@@ -34,7 +34,7 @@ export function Targets() {
     let geo;
 
     targets.forEach((target) => {
-      const torusGeo = new TorusGeometry(TARGET_RAD, 0.02, 8, 25);
+      const torusGeo = new TorusGeometry(TARGET_RAD, 0.02, 16, 25);
       torusGeo.applyQuaternion(
         new Quaternion().setFromUnitVectors(
           new Vector3(0, 0, 1),
