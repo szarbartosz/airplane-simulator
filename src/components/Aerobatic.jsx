@@ -85,7 +85,7 @@ export function Aerobatic(props) {
 
   return (
     <group ref={groupRef}>
-      <group {...props} dispose={null} scale={0.005} rotation-y={Math.PI / 2}>
+      <group {...props} dispose={null} scale={0.004} rotation-y={Math.PI / 2}>
         <group position={[0.116, -0.132, 0]} rotation={[0, 0, 0.164]}>
           <mesh
             geometry={nodes.Body_body_0.geometry}
